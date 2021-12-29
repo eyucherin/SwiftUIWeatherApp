@@ -1,11 +1,10 @@
 # SwiftUIWeatherApp
-
-Simple Weather App using the open weather API. 
-
 #### Che Rin Yu 
+### Simple Weather App using the open weather API. 
 
-![Screen Shot 2021-12-29 at 8 43 21 PM](https://user-images.githubusercontent.com/66363530/147658933-e2cfa729-5705-433e-8b39-5c78b9f16804.png)
-![Screen Shot 2021-12-29 at 8 43 59 PM](https://user-images.githubusercontent.com/66363530/147658943-55c9d263-7fda-442b-a8ea-913ae3465d7d.png)
+![IMG_3745](https://user-images.githubusercontent.com/66363530/147659161-2cc831ff-a125-44cf-8184-13d21678fff1.PNG)
+![IMG_3746](https://user-images.githubusercontent.com/66363530/147659169-d35d63f6-38f2-4728-a75a-c4466c00b62a.PNG)
+![IMG_3747](https://user-images.githubusercontent.com/66363530/147659175-49dc5f3a-dd3c-43d1-aeca-29f37ad3ba0c.PNG)
 
 
 ## Motivation 
