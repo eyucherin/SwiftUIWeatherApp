@@ -1,27 +1,27 @@
-#SwiftUIWeatherApp
+# SwiftUIWeatherApp
 
 Simple Weather App using the open weather API. 
 
-####Che Rin Yu 
+#### Che Rin Yu 
 
 ![Screen Shot 2021-12-29 at 8 43 21 PM](https://user-images.githubusercontent.com/66363530/147658933-e2cfa729-5705-433e-8b39-5c78b9f16804.png)
 ![Screen Shot 2021-12-29 at 8 43 59 PM](https://user-images.githubusercontent.com/66363530/147658943-55c9d263-7fda-442b-a8ea-913ae3465d7d.png)
 
 
-##Motivation 
+## Motivation 
 Currently a newbie at IOS Development.This app is one of the first apps I created with SwiftUI. I have previously created a weather app with UIKit and was motivated to create one using SwiftUI because of its simplicity. 
 
-##Description 
+## Description 
 This App aims to call the current location of the user using URLSession, brining in the latitude and longitude and calling a HTTP response from the user's location . After doing so the app will indicate the tempurature in Celcius, the minimum and maximum tempurature, windspeed in m/s and humidity levels. 
 
 ## How To Run 
 Connect your device to the program and run it. 
 You can also select a device and run the program. The main folder is called Content View. 
 
-##Testing 
+## Testing 
 There is a seperate json file that contains the weather conditions of Seoul South Korea on 12/29/2021 at around 7:00pm. This data is used as a model data to test  whether the "Weather View" runs correctly. 
 
-##What I learned 
+## What I learned 
 While building this Application I learned a couple of things. 
 1. How to bring in user's location using CoreLocation.
 2. Using LocationButton for users to tap button to share location in a more convient way
