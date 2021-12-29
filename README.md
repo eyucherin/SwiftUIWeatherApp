@@ -26,7 +26,7 @@ There is a seperate json file that contains the weather conditions of Seoul Sout
 ## What I learned 
 While building this Application I learned a couple of things. 
 1. How to bring in user's location using CoreLocation.
-2. Using LocationButton for users to tap button to share location in a more convient way
+2. Using LocationButton for users to tap button and share location in a more convient way
 3. Getting weather information according to the User's Location using HTTP request with async awaits.  
 4. Using AsyncImage to call image from the web without using 3rd party libraries like KingFisher 
 5. Using SFSymbols 
