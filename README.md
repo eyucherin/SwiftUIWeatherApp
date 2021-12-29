@@ -2,8 +2,6 @@
 #### Che Rin Yu 
 ### Simple Weather App using the open weather API. 
 
-![IMG_3745](https://user-images.githubusercontent.com/66363530/147659161-2cc831ff-a125-44cf-8184-13d21678fff1.PNG){: width="100" height="100"}
-
 
 ## Motivation 
 Currently a newbie at IOS Development.This app is one of the first apps I created with SwiftUI. I have previously created a weather app with UIKit and was motivated to create one using SwiftUI because of its simplicity. 
