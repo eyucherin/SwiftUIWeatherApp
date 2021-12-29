@@ -1,6 +1,7 @@
 # SwiftUIWeatherApp
 #### Che Rin Yu 
 ### Simple Weather App using the open weather API. 
+![IMG_3745](https://user-images.githubusercontent.com/66363530/147659996-8dcb9e11-4265-47ef-8bde-79567a9ffa99.PNG){: width="30%" height="30%"}
 
 
 ## Motivation 
