@@ -2,9 +2,7 @@
 #### Che Rin Yu 
 ### Simple Weather App using the open weather API. 
 
-![IMG_3745](https://user-images.githubusercontent.com/66363530/147659161-2cc831ff-a125-44cf-8184-13d21678fff1.PNG){:height="50%" width="50%"}
-![IMG_3746](https://user-images.githubusercontent.com/66363530/147659169-d35d63f6-38f2-4728-a75a-c4466c00b62a.PNG){:height="50%" width="50%"}
-![IMG_3747](https://user-images.githubusercontent.com/66363530/147659175-49dc5f3a-dd3c-43d1-aeca-29f37ad3ba0c.PNG){:height="50%" width="50%"}
+![IMG_3745](https://user-images.githubusercontent.com/66363530/147659161-2cc831ff-a125-44cf-8184-13d21678fff1.PNG){: width="100" height="100"}
 
 
 ## Motivation 
