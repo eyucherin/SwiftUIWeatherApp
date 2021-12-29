@@ -3,9 +3,9 @@
 #### Che Rin Yu 
 <center>
   <div>
-    <img src = "https://user-images.githubusercontent.com/66363530/147659996-8dcb9e11-4265-47ef-8bde-79567a9ffa99.PNG" width="300" height="550">
-    <img src = "https://user-images.githubusercontent.com/66363530/147660345-e209427a-a089-4e06-af0a-6913693ad4cd.PNG" width="300" height="550">
-    <img src = "https://user-images.githubusercontent.com/66363530/147660351-f0bcf387-5d43-47f0-8e58-39c6bca303f9.PNG" width="300" height="550">
+    <img src = "https://user-images.githubusercontent.com/66363530/147659996-8dcb9e11-4265-47ef-8bde-79567a9ffa99.PNG" width="280" height="500">
+    <img src = "https://user-images.githubusercontent.com/66363530/147660345-e209427a-a089-4e06-af0a-6913693ad4cd.PNG" width="280" height="500">
+    <img src = "https://user-images.githubusercontent.com/66363530/147660351-f0bcf387-5d43-47f0-8e58-39c6bca303f9.PNG" width="280" height="500">
   </div>
  </center>
 
